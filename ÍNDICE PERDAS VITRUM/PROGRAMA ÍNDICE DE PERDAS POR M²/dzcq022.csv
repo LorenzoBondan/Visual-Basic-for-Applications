@@ -1,0 +1,50 @@
+Relatorio de Producao x Defeitos;;;;;;;;;;;;;;
+out/21;Producao:;;;;;;;;;;;;;
+Data;Estab;Grupo Maquina;Centro Trabalho;Desc. Centro Trabalho;Defeito;Item;Un;Fornec;Nome Forn.;Qtde.;PPM;R$ Defeito;Refer.;Narrativa
+08/10/2021;18;Vitrum   ;200;Bilateral                               ;800;18800001705;UN;55799;CEBRACE     ;3;0;0;        ;Bolha                                   
+04/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18102003405;UN;6523;LAPIDA€ÇO   ;1;0;55,29;        ;Bolha                                   
+04/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18102005927;UN;6523;LAPIDA€ÇO   ;1;0;40,19;        ;Bolha                                   
+04/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18102110305;UN;55799;CEBRACE     ;1;0;130,99;        ;Bolha                                   
+04/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18102111905;UN;55799;CEBRACE     ;1;0;150,06;        ;Bolha                                   
+04/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18102154627;UN;55799;CEBRACE     ;1;0;126,25;        ;Bolha                                   
+05/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18702070005;UN;6523;LAPIDA€ÇO   ;1;0;45,63;        ;Bolha                                   
+05/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18702122005;UN;6523;LAPIDA€ÇO   ;2;0;89,44;        ;Bolha                                   
+05/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18702203005;UN;6523;LAPIDA€ÇO   ;1;0;21,56;        ;Bolha                                   
+05/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18702306005;UN;55799;CEBRACE     ;2;0;223,79;        ;Bolha                                   
+05/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18702319005;UN;55799;CEBRACE     ;1;0;173,04;        ;Bolha                                   
+05/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18702325005;UN;55799;CEBRACE     ;1;0;179,83;        ;Bolha                                   
+05/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18702328005;UN;6523;LAPIDA€ÇO   ;1;0;205,31;        ;Bolha                                   
+05/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18901227705;UN;55799;CEBRACE     ;1;0;53;        ;Bolha                                   
+05/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18901232805;UN;55799;CEBRACE     ;1;0;49,37;        ;Bolha                                   
+06/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18102004405;UN;55799;CEBRACE     ;1;0;63,75;        ;Bolha                                   
+06/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18102005827;UN;6523;LAPIDA€ÇO   ;1;0;35,77;        ;Bolha                                   
+06/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18102111605;UN;55799;CEBRACE     ;1;0;130,86;        ;Bolha                                   
+06/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18102111927;UN;55799;CEBRACE     ;1;0;316,73;        ;Bolha                                   
+06/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18102115705;UN;55799;CEBRACE     ;1;0;222,17;        ;Bolha                                   
+06/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18102115927;UN;55799;CEBRACE     ;2;0;952,68;        ;Bolha                                   
+06/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18102172505;UN;55799;CEBRACE     ;1;0;191,23;        ;Bolha                                   
+06/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18102174827;UN;6523;LAPIDA€ÇO   ;1;0;0;        ;Bolha                                   
+06/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18102407005;UN;55799;CEBRACE     ;1;0;0;        ;Bolha                                   
+07/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18102004905;UN;55799;CEBRACE     ;1;0;72,51;        ;Bolha                                   
+07/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18700007505;UN;55799;CEBRACE     ;1;0;185,32;        ;Bolha                                   
+07/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18702223005;UN;55799;CEBRACE     ;1;0;35,55;        ;Bolha                                   
+07/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18702234005;UN;55799;CEBRACE     ;1;0;38,26;        ;Bolha                                   
+07/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18702238005;UN;55799;CEBRACE     ;2;0;90,61;        ;Bolha                                   
+07/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18702282005;UN;55799;CEBRACE     ;1;0;96,83;        ;Riscos                                  
+07/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18702292005;UN;55799;CEBRACE     ;1;0;96,01;        ;Bolha                                   
+07/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18702310005;UN;55799;CEBRACE     ;1;0;121,41;        ;Fio de Cabelo                           
+07/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18702312005;UN;55799;CEBRACE     ;1;0;130,76;        ;Bolha                                   
+07/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18702331005;UN;55799;CEBRACE     ;1;0;192,17;        ;Bolha                                   
+07/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18702353005;UN;6523;LAPIDA€ÇO   ;1;0;60,33;        ;Bolha                                   
+08/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18101251705;UN;55799;CEBRACE     ;1;0;97,5;        ;Bolha                                   
+08/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18102000327;UN;6523;LAPIDA€ÇO   ;1;0;81,28;        ;Bolha                                   
+08/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18102003905;UN;55799;CEBRACE     ;2;0;125,6;        ;Bolha                                   
+08/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18102004405;UN;55799;CEBRACE     ;1;0;63,75;        ;Bolha                                   
+08/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18102110405;UN;55799;CEBRACE     ;1;0;104,64;        ;Deformação                              
+08/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18102111405;UN;55799;CEBRACE     ;1;0;121,27;        ;Bolha                                   
+08/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18102115605;UN;55799;CEBRACE     ;1;0;196,86;        ;Bolha                                   
+08/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18102115727;UN;6523;LAPIDA€ÇO   ;2;0;994,24;        ;Bolha                                   
+08/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18102154705;UN;55799;CEBRACE     ;1;0;0;        ;Bolha                                   
+08/10/2021;18;Vitrum   ;201;Aplica‡Æo de Pel¡cula                   ;800;18901285505;UN;55799;CEBRACE     ;1;0;111,37;        ;Bolha                                   
+07/10/2021;18;Vitrum   ;206;Aplica‡Æo de Fita                       ;800;18800001705;UN;6523;LAPIDA€ÇO   ;1;0;111,37;        ;Bolha                                   
+;;;;;;;;TOTAL;54;0;6.584,58;;;
